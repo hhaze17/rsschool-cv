@@ -22,3 +22,33 @@
 
 -----------
 
+**SKILLS:**
+
+– English: Upper-Intermediate (B2),
+
+– extensive background in creation of test cases and checklists,
+
+– strong knowledge of manual testing,
+
+– reporting of defects in bug tracking systems (Jira, Kaiten),
+
+– basic knowledge: C++; HTML/CSS; SQL.
+
+– familiar with DevOps, Agile metodologies, experience with Scrum.
+
+-----------   
+
+**EDUCATION:**
+
+Academy of Telecommunications, Software testing.
+
+Expected Graduation: 2021
+
+-----------
+
+**CODE EXAMPLES:**
+
+1. [A term paper on the discipline of The Basics Of Algorithms and Programming (C++)](https://github.com/hhaze17/example)
+2. 
+
+-----------
