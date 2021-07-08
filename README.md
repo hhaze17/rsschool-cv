@@ -1,1 +1,1 @@
-# rsschool-cv
+https://hhaze17.github.io/rsschool-cv/cv
