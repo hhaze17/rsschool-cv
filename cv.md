@@ -42,7 +42,7 @@
 
 Academy of Telecommunications, Software testing.
 
-Expected Graduation: 2021
+Expected Graduation: 2022
 
 -----------
 
