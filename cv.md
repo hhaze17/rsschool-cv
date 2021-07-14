@@ -46,9 +46,8 @@ Expected Graduation: 2022
 
 -----------
 
-**CODE EXAMPLES:**
+**CODE EXAMPLE:**
 
 1. [A term paper on the discipline of The Basics Of Algorithms and Programming (C++)](https://github.com/hhaze17/example)
-2. 
 
 -----------
